@@ -140,6 +140,12 @@ To run tests, run the following command:
 - GitHub: [@githubhandle](https://github.com/rugwizangoga)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/iradukunda-pacific-rugwizangoga)
 
+👤**Daniel Kigozi**
+
+- GitHub: [Daniel-Kigozi](https://github.com/Daniel-Kigozi)
+- Twitter: [@DanielKigozi15](https://twitter.com/@DanielKigozi15)
+- LinkedIn: [daniel-kigozi-375182208/](https://www.linkedin.com/in/daniel-kigozi-375182208/)
+
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
